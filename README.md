@@ -19,7 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fragalado&show_icons=true&locale=en" alt="fragalado" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fragalado&" alt="fragalado" /></p>
----
-##### Estadisticas
-![fragalado's GitHub stats](https://github-readme-stats.vercel.app/api?username=fragalado&show_icons=true&theme=radical)
 
