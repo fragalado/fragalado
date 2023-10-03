@@ -3,7 +3,7 @@
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Fran Gallego</h1></summary>
   </ul>
