@@ -71,7 +71,7 @@
 
 <br>
 
-<picture> <img align="right" src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" width = 300px></picture>
+<picture> <img align="center" src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" width = 300px></picture>
 
 <br>
 
