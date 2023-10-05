@@ -71,6 +71,10 @@
 
 <br>
 
+<picture> <img align="right" src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" width = 300px></picture>
+
+<br>
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
