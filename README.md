@@ -21,7 +21,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Student` at [CED Altair](https://altair.edu.es/) in [Seville, Spain](https://www.google.com/search?q=sevilla&rlz=1C1UEAD_esES1075ES1075&oq=sevilla&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YgwEYsQMYgAQyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPTIGCAcQRRg80gEIMTM2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+- :school: I am a `Student` at [CED Altair](https://altair.edu.es/){:target="_blank"} in [Seville, Spain](https://www.google.com/search?q=sevilla&rlz=1C1UEAD_esES1075ES1075&oq=sevilla&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YgwEYsQMYgAQyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPTIGCAcQRRg80gEIMTM2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8){:target="_blank"}
 - :technologist: **Currently working on** `Frontend Development` **&** `Backend Development`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=fragalado&amp;color=EA4335&amp;style=flat-square)](mailto:frandanigd@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
